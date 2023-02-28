@@ -1,20 +1,20 @@
-1. npm init
-2. npm install webpack webpack-cli --save-dev
-3. git ignore node modules
-4. npm install --- install node modules
+1. npm init X
+2. npm install webpack webpack-cli --save-dev X
+3. git ignore node modules X
+4. npm install --- install node modules X
 
-5. create src directory
-    a. create index.js
-    b. write a console.log or alert
-    c. run npx webpack
-    d. npx webpack --watch  ---- live reloads changes
+5. create src directory X
+    a. create index.js X
+    b. write a console.log or alert X
+    c. run npx webpack X
+    d. npx webpack --watch  ---- live reloads changes X
 6. create dist directory
-    a. create index.html
-    b. set up an HTML skeleton
-        b1. include a  single <div id="content"></div>
-    c. after adding the src.index.js file and content and running npx webpack open index.html
-7. create webpack.config.js
-    a. setup webpack config
+    a. create index.html X
+    b. set up an HTML skeleton X
+        b1. include a  single <div id="content"></div> X
+    c. after adding the src.index.js file and content and running npx webpack open index.html X
+7. create webpack.config.js X
+    a. setup webpack config 
 
 
 8. create a bar Webpage
