@@ -1,0 +1,4 @@
+.body{
+    display: grid;
+    grid-template-rows: 2fr 20fr 2fr;
+}
