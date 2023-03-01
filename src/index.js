@@ -1,1 +1,1 @@
-console.log("Welcome to Webpack")
+import {pageLoad} from './page.js'

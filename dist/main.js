@@ -1,1 +1,1 @@
-console.log("Welcome to Webpack");
+(()=>{"use strict";function o(){console.log("window loaded")}window.onload=function(){o()},o()})();
